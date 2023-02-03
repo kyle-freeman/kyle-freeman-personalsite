@@ -1,12 +1,13 @@
 import type {PageData} from "lume/core.ts"
 
 
-export const title = "Welcome to the site!"
+export const title = "bitch"
 export const layout = "layouts/main.tsx"
 
 export default (data : PageData) => (
 	<>
-		<h1>{data.title}</h1>
-		<p>sup</p>
+		<div class="text-center my-8">
+      		<div class="text-center">{data.title}</div>
+    	</div>
 	</>
 )
