@@ -402,6 +402,8 @@
   "npm": {
     "specifiers": {
       "@lumeland/tailwindcss@3.2.5": "@lumeland/tailwindcss@3.2.5_postcss@8.4.21",
+      "@types/animejs@^3.1.7": "@types/animejs@3.1.7",
+      "animejs@^3.2.1": "animejs@3.2.1",
       "autoprefixer@10.4.13": "autoprefixer@10.4.13_postcss@8.4.21",
       "date-fns@2.29.3": "date-fns@2.29.3",
       "markdown-it-attrs@4.1.6": "markdown-it-attrs@4.1.6_markdown-it@13.0.1",
@@ -485,12 +487,20 @@
           "fastq": "fastq@1.15.0"
         }
       },
+      "@types/animejs@3.1.7": {
+        "integrity": "sha512-kFSyjM+fLo3oE9noWEtUvF82ttN8fTrKohiEMIrSzEzEjnsCmtO0rBCUQBlSPEb2w8vfN+v4/Zo0tK21Bgmq4g==",
+        "dependencies": {}
+      },
       "acorn-walk@7.2.0": {
         "integrity": "sha512-OPdCF6GsMIP+Az+aWfAAOEt2/+iVDKE7oy6lJ098aoe59oAmK76qV6Gw60SbZ8jHuG2wH058GF4pLFbYamYrVA==",
         "dependencies": {}
       },
       "acorn@7.4.1": {
         "integrity": "sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==",
+        "dependencies": {}
+      },
+      "animejs@3.2.1": {
+        "integrity": "sha512-sWno3ugFryK5nhiDm/2BKeFCpZv7vzerWUcUPyAZLDhMek3+S/p418ldZJbJXo5ZUOpfm2kP2XRO4NJcULMy9A==",
         "dependencies": {}
       },
       "anymatch@3.1.3": {

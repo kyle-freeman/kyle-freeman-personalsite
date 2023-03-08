@@ -1,0 +1,14 @@
+layout: layouts/main.njk
+title: Kyle Freeman
+introduction:
+  header: Hi, I'm Kyle.
+  main: |
+    I'm a software engineer who likes tinkering with things. I mess with web technologies 
+    and occassionally a bit of game dev.
+
+    Currently, I work as a full stack web developer building an ecosystem of APIs and web 
+    applications using technologies like .NET Core, NextJS, React, and Typescript.
+  future: |
+    Going into 2023, I'm trying to focus on branching out into other domains of software than 
+    what I'm used to, like systems programming and embeded software. In that vein, I've been 
+    perusing and toying with the lower level languages such as C, C++, Rust, etc. 
